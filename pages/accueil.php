@@ -1,8 +1,3 @@
-<?php
-require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/header.php");
-require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/nav.php");
-?>
-
 <div class="container">
     <div class="title">
         <h1 id="notre_activite">OPÉRATEUR CLOUD DE PROXIMITÉ</h1>
@@ -90,8 +85,3 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/nav.php");
         </div>
     </div>
 </div>
-
-
-<?php
-require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/footer.php");
-?>

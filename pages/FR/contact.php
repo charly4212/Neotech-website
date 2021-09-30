@@ -1,8 +1,3 @@
-<?php
-require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/header.php");
-require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/nav.php");
-?>
-
 <div class="container">
     <form>
       <div class="row">
@@ -41,7 +36,3 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/nav.php");
       <input class="button-second" type="submit" value="Envoyer">
     </form>
 </div>
-
-<?php
-require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/footer.php");
-?>
