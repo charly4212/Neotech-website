@@ -1,8 +1,3 @@
-<?php
-require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/header.php");
-require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/nav.php");
-?>
-
 <div class="container">
     <div class="row">
         <div class="title">
@@ -12,7 +7,3 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/nav.php");
         </div>
     </div>
 </div>
-
-<?php
-require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/footer.php");
-?>
