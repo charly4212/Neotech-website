@@ -32,7 +32,6 @@ get('/item/$name', 'views/items.php');
 // ##################################################
 // ##################################################
 // any can be used for GETs or POSTs
-require_once($_SERVER['DOCUMENT_ROOT'] . "/MyWebsite/templates/FR/footer.php");
 
 // For GET or POST
 // The 404.php which is inside the views folder will be called

@@ -85,3 +85,6 @@
         </div>
     </div>
 </div>
+<?php
+require_once($_SERVER['DOCUMENT_ROOT'] . "../../templates/FR/footer.php");
+?>
